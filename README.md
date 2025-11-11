@@ -44,7 +44,7 @@ A minimalist Twitter-like mobile app built with **React Native (Expo)** and **Fi
 > Make sure you have **Node**, **Expo CLI**, and **Firebase** configured.
 
 ```bash
-git clone https://github.com/cheporte/hummingbird.git
+git clone https://github.com/noqtisnox/hummingbird.git
 cd hummingbird
 npm install
 ```
